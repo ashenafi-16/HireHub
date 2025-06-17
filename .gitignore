@@ -1,1 +1,6 @@
+# .gitignore
+.env
 /vir-env/
+*.pyc
+__pycache__/
+db.sqlite3
